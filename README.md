@@ -1,2 +1,2 @@
-# QR_BASED_PAYMENT_SYSTEM
-QR-Based Payment System
+# QR-CODE-BASED-PAYMENT-SYSTEM
+School purposes
